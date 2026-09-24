@@ -1,3 +1,7 @@
+# Étape 1 -  Dictionnaire de Données  
+
+dico-données.xlsx
+
 # Étape 2 — Identité visuelle & enchaînement des écrans
 
 Station météo connectée & intelligente · Cité du Numérique de Blois
@@ -47,3 +51,8 @@ Les maquettes haute fidélité (étape 3) sont dans Figma : lien transmis sépar
 - Le chatbot est réservé au médiateur (dossier d'architecture, partie E) : la zone publique explique l'IA sans conversation libre.
 - Les 5 écrans d'administration partagent une même coquille à onglets.
 - Wireframes et maquettes en version bureau uniquement (versions mobiles non demandées).
+
+
+# Étape 3 — Maquette et Wireframes Figma 
+
+https://www.figma.com/design/80DDNJwpAEE9XwPhjicyui/projet-iot?node-id=0-1&t=37oL1y9HOqrpZKWI-1
