@@ -1,4 +1,4 @@
-# Étape 2 — Identité visuelle & enchaînement des écrans
+# Étape 2 & 3  — Identité visuelle & Wireframes Maquette
 
 Station météo connectée & intelligente · Cité du Numérique de Blois
 
