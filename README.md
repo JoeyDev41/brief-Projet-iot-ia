@@ -2,7 +2,7 @@
 
 Station météo connectée & intelligente · Cité du Numérique de Blois
 
-Référence données : `Proposition_Dictionnaire_Donnees_Station_Meteo.xlsx` (dictionnaire final — rôles, seuils, états, règles d'affichage).
+Référence données : `Dico-final.xlsx` (dictionnaire final — rôles, seuils, états, règles d'affichage).
 
 ## Contenu du dossier
 
