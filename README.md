@@ -40,10 +40,3 @@ Les maquettes reprennent exactement le contenu des wireframes et appliquent la c
 11. Atelier pédagogique (rejeu, coulisses, vulgarisation de l'IA, chatbot)
 12. Comptes — 13. Seuils d'alerte — 14. Destinataires — 15. État du capteur — 16. Journaux techniques
 17. Mon profil
-
-## Choix assumés
-
-- Le logo est celui fourni par le commanditaire ; la palette de la charte en est dérivée.
-- Le chatbot est réservé au médiateur (dossier d'architecture, partie E) : la zone publique explique l'IA sans conversation libre.
-- Les 5 écrans d'administration partagent une même coquille à onglets.
-- Wireframes et maquettes en version bureau uniquement (versions mobiles non demandées).
